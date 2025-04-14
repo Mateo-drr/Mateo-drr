@@ -6,38 +6,45 @@
 ---
 
 ## 💻 About Me
-- 🎯 **Currently:** Master’s degree in Artifical Intelligence Systems @ UniTN
+- 🎯 **Academics:** Master’s degree in Artifical Intelligence Systems @ UniTN
 - 🧠 **Interested in:** Neural networks, computer vision, natural language processing, medical imaging, explainable AI.  
-- 🌍 **Languages:** Portuguese, Spanish, English, Italian.
+- 🌍 **Languages:** Spanish, English, Italian, Portuguese.
 
 ---
 
 ## 📂 Featured Projects
 
-InDev projects are marked with a 🚧
+InDev (🚧) | Group Work (👥) | NLP (💬) | CV (👁️) 
 
 ### 🧠 AI & Machine Learning
-- [ALU: Autonomous Lung Ultrasound](https://github.com/Mateo-drr/ALU-Autonomous-Lung-Ultrasound)  
-- [Stable Feature Boosting](https://github.com/Mateo-drr/StableFeatureBoosting)
-- [Natural Language Processsing Labs](https://github.com/Mateo-drr/NLULabs)
-- 🚧 [CLU: Codified Likeness Unit](https://github.com/Mateo-drr/CLU)
-- [Ant Bus Planner](https://github.com/Mateo-drr/AntsBusPlanner)
-- [Filtered PCA & ICA](https://github.com/Mateo-drr/FilteredP-ICA)
-- [Image Compression CAE](https://github.com/Mateo-drr/CompressiveCAE)
-- [Attention From Scratch](https://github.com/Mateo-drr/AttentionFromScratch)
-- [Autonomous Software Agents: DeliverooJS](https://github.com/debryu/Autonomous-Software-Agents)
-- [CLIP based visual grounding](https://github.com/debryu/Visual-Grounding)
-- [Vesuvius Scrolls](https://github.com/debryu/VesuviusScrolls)
+[![ALU](https://img.shields.io/badge/👁️_ALU-Autonomous_Lung_Ultrasound-blue?style=for-the-badge)](https://github.com/Mateo-drr/ALU-Autonomous-Lung-Ultrasound)  
+[![StableFeatureBoosting](https://img.shields.io/badge/SFB-Stable_Feature_Boosting-green?style=for-the-badge)](https://github.com/Mateo-drr/StableFeatureBoosting)  
+[![NLULabs](https://img.shields.io/badge/💬_NLULabs-Natural_Language_Understanding_Labs-orange?style=for-the-badge)](https://github.com/Mateo-drr/NLULabs)  
+[![CLU](https://img.shields.io/badge/🚧💬_CLU-Codified_Likeness_Unit-lightgrey?style=for-the-badge)](https://github.com/Mateo-drr/CLU)  
+[![AntBusPlanner](https://img.shields.io/badge/ACO-Ant_Bus_Planner-purple?style=for-the-badge)](https://github.com/Mateo-drr/AntsBusPlanner)  
+[![FilteredPCAICA](https://img.shields.io/badge/FP&ICA-Filtered_PCA_&_ICA-yellow?style=for-the-badge)](https://github.com/Mateo-drr/FilteredP-ICA)  
+[![CAE](https://img.shields.io/badge/👥👁️_ImgCompCAE-Image_Compression_CAE-orange?style=for-the-badge)](https://github.com/Mateo-drr/CompressiveCAE)  
+[![AttentionScratch](https://img.shields.io/badge/💬_Attention-From_Scratch-blueviolet?style=for-the-badge)](https://github.com/Mateo-drr/AttentionFromScratch)  
+[![AutonomousSoftwareAgents](https://img.shields.io/badge/👥_ASA_DeliverooJS-Autonomous_Software_Agents_Deliveroo_Game-lightblue?style=for-the-badge)](https://github.com/debryu/Autonomous-Software-Agents)  
+[![VisualGrounding](https://img.shields.io/badge/👥💬👁️_CLIP_VG-Clip_Based_Visual_Grounding-red?style=for-the-badge)](https://github.com/debryu/Visual-Grounding)  
+[![VesuviusScrolls](https://img.shields.io/badge/👥👁️_RepMoDE-Vesuvius_Scrolls-9cf?style=for-the-badge)](https://github.com/debryu/VesuviusScrolls)  
 
-### 🚀 Experimental Projects
-- 🚧 [VI: Virtual Intelligence](https://github.com/mateo-drr/custom-tokenizer)
-- 🚧 [CrypTor: Crypto price predictor](https://github.com/Mateo-drr/Cryp-Tor)
-- [MLtools](https://github.com/Mateo-drr/MLTools)
+---
 
-### Electrical Engineering
-- [FPGA arcade game](https://github.com/Mateo-drr/FPGA_arcadeGame)
-- [Greenhouse control Android APP](https://github.com/Mateo-drr/PDM)
-- [FreeRTOS greenhouse](https://github.com/Mateo-drr/FreeRTOSGrenhouse)
+### 🚀 Experimental Projects  
+
+[![VI](https://img.shields.io/badge/🚧💬_VI-Virtual_Intelligence-orange?style=for-the-badge)](https://github.com/mateo-drr/custom-tokenizer)  
+[![CrypTor](https://img.shields.io/badge/🚧👥_CrypTor-Crypto_Price_Predictor-lightgrey?style=for-the-badge)](https://github.com/Mateo-drr/Cryp-Tor)  
+[![MLTools](https://img.shields.io/badge/MLTools-Deep_Learning_Blocks_&_Utilities-blue?style=for-the-badge)](https://github.com/Mateo-drr/MLTools)  
+
+---
+
+### ⚡ Electrical Engineering  
+
+[![FPGA](https://img.shields.io/badge/👥_FPGA-Arcade_Game-darkgreen?style=for-the-badge)](https://github.com/Mateo-drr/FPGA_arcadeGame)  
+[![AndroidApp](https://img.shields.io/badge/👥_Android-Greenhouse_Control_APP-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Mateo-drr/PDM)  
+[![FreeRTOS](https://img.shields.io/badge/👥_FreeRTOS-Greenhouse_Control_System-00599C?style=for-the-badge)](https://github.com/Mateo-drr/FreeRTOSGrenhouse)  
+
 
 ---
 
