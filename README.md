@@ -73,5 +73,5 @@ InDev (🚧) | Group Work (👥) | NLP (💬) | CV (👁️)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateo-drr&show_icons=true&theme=dark&hide_border=true" alt="Mateo's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateo-drr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateo-drr&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateo-drr&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
