@@ -33,7 +33,7 @@ InDev (🚧) | Group Work (👥) | NLP (💬) | CV (👁️)
 
 ### 🚀 Experimental Projects  
 
-[![VI](https://img.shields.io/badge/🚧💬_VI-Virtual_Intelligence-orange?style=for-the-badge)](https://github.com/mateo-drr/custom-tokenizer)  
+[![VI](https://img.shields.io/badge/🚧💬_VI-Virtual_Intelligence-orange?style=for-the-badge)](https://github.com/Mateo-drr/VI-VirtualIntelligence)  
 [![CrypTor](https://img.shields.io/badge/🚧👥_CrypTor-Crypto_Price_Predictor-lightgrey?style=for-the-badge)](https://github.com/Mateo-drr/Cryp-Tor)  
 [![MLTools](https://img.shields.io/badge/MLTools-Deep_Learning_Blocks_&_Utilities-blue?style=for-the-badge)](https://github.com/Mateo-drr/MLTools)  
 
