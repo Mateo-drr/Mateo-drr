@@ -8,7 +8,6 @@
 ## 💻 About Me
 - 🎯 **Academics:** Master’s degree in Artifical Intelligence Systems @ UniTN
 - 🧠 **Interested in:** Neural networks, computer vision, natural language processing, medical imaging, explainable AI.  
-- 🌍 **Languages:** Spanish, English, Italian, Portuguese.
 
 ---
 
@@ -34,6 +33,7 @@ InDev (🚧) | Group Work (👥) | NLP (💬) | CV (👁️)
 ### 🚀 Experimental Projects  
 
 [![VI](https://img.shields.io/badge/🚧💬_VI-Virtual_Intelligence-orange?style=for-the-badge)](https://github.com/Mateo-drr/VI-VirtualIntelligence)  
+[![Legion](https://img.shields.io/badge/🚧👁️_Legion-Self_Evolving_NN-orange?style=for-the-badge)](https://github.com/Mateo-drr/Legion)  
 [![CrypTor](https://img.shields.io/badge/🚧👥_CrypTor-Crypto_Price_Predictor-lightgrey?style=for-the-badge)](https://github.com/Mateo-drr/Cryp-Tor)  
 [![MLTools](https://img.shields.io/badge/MLTools-Deep_Learning_Blocks_&_Utilities-blue?style=for-the-badge)](https://github.com/Mateo-drr/MLTools)  
 
